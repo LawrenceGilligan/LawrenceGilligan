@@ -8,7 +8,7 @@ I am studying computer science at Western Governors University with plans to bec
 
 * 🌍  I'm based in Northern Virginia
 * ✉️  You can contact me at [ltgilligan23@gmail.com](mailto:ltgilligan23@gmail.com)
-* 🧠  I'm learning Python and SQL
+* 🧠  I'm developing my skills in Data Science in Machine Learning
 
 ### Skills
 
