@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-I am studying computer science at Western Governors University with plans to become a data sceintist.
+I am studying computer science at Western Governors University with plans to become a python developer.
 
 * 🌍  I'm based in Northern Virginia
 * ✉️  You can contact me at [ltgilligan23@gmail.com](mailto:ltgilligan23@gmail.com)
-* 🧠  I'm developing my skills in Data Science in Machine Learning
+* 🧠  I'm developing my skills in Data Science and Machine Learning
 
 ### Skills
 
