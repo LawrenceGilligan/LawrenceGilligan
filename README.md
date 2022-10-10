@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am studying computer science at Western Governors University inline to gradutae December 2022.<br><br>🌍  I'm based in Northern Virginia<br>✉️  You can contact me at ltgilligan23@gmail.com<br>🧠  I a currently working on personal projects to build my skills
+I am studying computer science at Western Governors University inline to gradutae December 2022.<br><br>🌍  I'm based in Northern Virginia<br>✉️  You can contact me at ltgilligan23@gmail.com<br>🧠  I am currently working on personal projects to build my skills
 
 <br>
 
