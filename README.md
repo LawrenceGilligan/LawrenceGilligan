@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lawrence</h1>
-<h3 align="center">A student passionate about Computer Science and Machine Learning</h3>
+<h3 align="center">Computer Science student passionate about Data Science and Deep Learning</h3>
 
 - 👨‍💻 All of my projects are available at [https://lawrencegilligan.streamlit.app/](https://lawrencegilligan.streamlit.app/)
 
