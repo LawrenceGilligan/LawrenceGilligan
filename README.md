@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lawrence</h1>
 <h3 align="center">A passionate automation engineer</h3>
 
-- 🌱 I’m currently learning **C++**
+- I’m currently pursuing my undergrad in **Computer Science**
 
-- 💬 Ask me about **Aerospace, Aviation, and Robotics**
+- Ask me about **Aerospace, Aviation, and Robotics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
